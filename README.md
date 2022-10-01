@@ -15,7 +15,7 @@ These files underpin inform safe wild-harvest strategies for <i>Litoria raniform
 
 R code accompanies article: 
 
-<strong>Mathwin, R, Wassens, S, Turner, A, Heard, G, /strong> and <strong>Bradshaw, CJA</strong> Modelling effects of water regulation on the population viability of threatened apmphibians. <i>in review</i>
+<strong>Mathwin, R, Wassens, S, Turner, A, Heard, G, </strong> and <strong>Bradshaw, CJA</strong> Modelling effects of water regulation on the population viability of threatened apmphibians. <i>in review</i>
 
 <strong>AIM</strong>: Stochastic population models assess the population viability of three contrasting <i>Litoria raniformis</i> populations under different harvest strategies. Harvesting strategies are: harvest as eggs, larvae or adults, and at collection proportions from 0 - 100% in 5% increments.  
 
