@@ -1,5 +1,5 @@
 #  Population model for the sustainable harvest of <i>Litoria raniformis</i> from wild populations
-These files underpin inform safe wild-harvest strategies for <i>Litoria raniformis</i> for conservation. These analyses underpin the manuscript "Stochastic population models guide the sustainable wild harvest of a threatened amphibian, Litoria raniformis"
+These files inform safe wild-harvest strategies for <i>Litoria raniformis</i> for conservation. These analyses underpin the manuscript "Stochastic population models guide the sustainable wild harvest of a threatened amphibian, <i>Litoria raniformis</i>"
 
 <strong>AUTHOR</strong>: Rupert Mathwin
 
