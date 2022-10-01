@@ -11,13 +11,13 @@ These files underpin inform safe wild-harvest strategies for <i>Litoria raniform
 
 <strong>INSTITUTION</strong>: Rupert.Mathwin.Ecology
 
-<strong>RELEASE DATE</strong>: September 2022
+<strong>RELEASE DATE</strong>: October 2022
 
 R code accompanies article: 
 
 <strong>Mathwin, R, Wassens, S, Turner, A, Heard, G, /strong> and <strong>Bradshaw, CJA</strong> Modelling effects of water regulation on the population viability of threatened apmphibians. <i>in review</i>
 
-<strong>AIM</strong>: Stochastic population model of the population viability of <i>Litoria raniformis</i> at wetlands of four size classes at sill heights of 7 to 11 metres mAHD under natural and regulated flow between Locks 3 and 2 in southern Australia's Murray-Darling Basin. 
+<strong>AIM</strong>: Stochastic population models assess the population viability of three contrasting <i>Litoria raniformis</i> populations under different harvest strategies. Harvesting strategies are: harvest as eggs, larvae or adults, and at collection proportions from 0 - 100% in 5% increments.  
 
 Repository includes the following files:
 - '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/matrixOperators.r">matrixOperators.R</a>' — functions to manipulate matrix models
