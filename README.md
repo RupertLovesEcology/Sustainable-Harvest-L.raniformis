@@ -21,8 +21,14 @@ R code accompanies article:
 
 Repository includes the following files:
 - '<a href="https://github.com/cjabradshaw/MegafaunaSusceptibility/blob/master/matrixOperators.r">matrixOperators.R</a>' — functions to manipulate matrix models
+
+
 https://github.com/RupertLovesEcology/Sustainable-Harvest-L.raniformis/blob/main/Sustainable_Harvest_Lraniformis_V10.R
-- '<a href="https://github.com/RRupertLovesEcology/Sustainable-Harvest-L.raniformis/blob/main/Sustainable_Harvest_Lraniformis_V10.R">Sustainable_Harvest_Lraniformis_V10.R</a>' — R #code to run all population models and create display items.
+
+https://github.com/RupertLovesEcology/Sustainable-Harvest-L.raniformis/blob/main/Sustainable_Harvest_Lraniformis_V10.R
+
+
+- '<a href="https://github.com/RupertLovesEcology/Sustainable-Harvest-L.raniformis/blob/main/Sustainable_Harvest_Lraniformis_V10.R">Sustainable_Harvest_Lraniformis_V10.R</a>' — R #code to run all population models and create display items.
 - '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/startPopsEpsom2.csv">startPopsEpsom2.csv</a>' — 10000 burnt-in starting population for the Bendigo Water Treatment Plant.
 - '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/startPopsNapNap2.csv">startPopsNapNap2.csv</a>' — 10000 burnt-in starting population for Nap Nap Waterhole.
 - '<a href="https://github.com/RupertLovesEcology/RiverRegulation_Frog_PopModel/blob/main/startPopsHogwash2.csv">startPopsHogwash2.csv</a>' — 10000 burnt-in starting population for Hogwash Bend.
