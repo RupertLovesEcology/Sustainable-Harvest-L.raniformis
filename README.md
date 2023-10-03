@@ -11,7 +11,7 @@ These files inform safe wild-harvest strategies for <i>Litoria raniformis</i> fo
 
 <strong>INSTITUTION</strong>: Rupert.Mathwin.Ecology
 
-<strong>RELEASE DATE</strong>: October 2022
+<strong>RELEASE DATE</strong>: October 2023
 
 R code accompanies article: 
 
